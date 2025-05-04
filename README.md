@@ -1,4 +1,4 @@
 # Hash-Map
-Hash Mapn\
+Hash Map\
 UIC College of Engineering
 
